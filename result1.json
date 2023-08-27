@@ -1,0 +1,896 @@
+{
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b": {
+        "object_type": "Directory",
+        "object_name": "DeepPythonLection",
+        "object_size": 2482148,
+        "parent_directory": "\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\": {
+        "object_type": "File",
+        "object_name": "users.pickle",
+        "object_size": 77,
+        "parent_directory": ""
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git": {
+        "object_type": "Directory",
+        "object_name": "refs",
+        "object_size": 246,
+        "parent_directory": ".git"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\hooks": {
+        "object_type": "File",
+        "object_name": "update.sample",
+        "object_size": 3650,
+        "parent_directory": "hooks"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\info": {
+        "object_type": "File",
+        "object_name": "exclude",
+        "object_size": 240,
+        "parent_directory": "info"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\logs": {
+        "object_type": "Directory",
+        "object_name": "refs",
+        "object_size": 9966,
+        "parent_directory": "logs"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\logs\\refs": {
+        "object_type": "Directory",
+        "object_name": "remotes",
+        "object_size": 2502,
+        "parent_directory": "refs"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\logs\\refs\\heads": {
+        "object_type": "File",
+        "object_name": "main",
+        "object_size": 2481,
+        "parent_directory": "heads"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\logs\\refs\\remotes": {
+        "object_type": "Directory",
+        "object_name": "origin",
+        "object_size": 1251,
+        "parent_directory": "remotes"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\logs\\refs\\remotes\\origin": {
+        "object_type": "File",
+        "object_name": "main",
+        "object_size": 1251,
+        "parent_directory": "origin"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects": {
+        "object_type": "Directory",
+        "object_name": "pack",
+        "object_size": 0,
+        "parent_directory": "objects"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\01": {
+        "object_type": "File",
+        "object_name": "886f0356879b022083c31b777a64eca37e71ef",
+        "object_size": 108,
+        "parent_directory": "01"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\04": {
+        "object_type": "File",
+        "object_name": "b4603b6db11d0e8836126e23a143d24d9dc643",
+        "object_size": 199,
+        "parent_directory": "04"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\07": {
+        "object_type": "File",
+        "object_name": "14c152f732ec2846a5c2a208173174cb8004fc",
+        "object_size": 3397,
+        "parent_directory": "07"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\08": {
+        "object_type": "File",
+        "object_name": "cc32539543b8fd4e96ee146ee8bb1e76b2cceb",
+        "object_size": 225,
+        "parent_directory": "08"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\09": {
+        "object_type": "File",
+        "object_name": "166e8185afd27b2c2ffef7a0a0e58c14b609b6",
+        "object_size": 462,
+        "parent_directory": "09"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\0a": {
+        "object_type": "File",
+        "object_name": "8ce3afcba56039cc12b0a73d427dc00594c4f2",
+        "object_size": 744,
+        "parent_directory": "0a"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\0d": {
+        "object_type": "File",
+        "object_name": "f5dcd05775c21f1723968384a7ff3e61372936",
+        "object_size": 830,
+        "parent_directory": "0d"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\0f": {
+        "object_type": "File",
+        "object_name": "67b9b006e80e9144022ab64913359b0c167d82",
+        "object_size": 308,
+        "parent_directory": "0f"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\10": {
+        "object_type": "File",
+        "object_name": "fa6bf21985c36360acf7d77d398ee496642076",
+        "object_size": 3412,
+        "parent_directory": "10"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\13": {
+        "object_type": "File",
+        "object_name": "bc388fa04b68ef8f1a5fc1189a0e09c6ca68a1",
+        "object_size": 80,
+        "parent_directory": "13"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\16": {
+        "object_type": "File",
+        "object_name": "24bff327002382264a55489c2055bdcceb6035",
+        "object_size": 291,
+        "parent_directory": "16"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\18": {
+        "object_type": "File",
+        "object_name": "e3f633813e9ec70ea7ea717c51aa3a5938d656",
+        "object_size": 158,
+        "parent_directory": "18"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\1a": {
+        "object_type": "File",
+        "object_name": "0aeb179375eba2d64757171975ed770661bc3a",
+        "object_size": 253,
+        "parent_directory": "1a"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\1b": {
+        "object_type": "File",
+        "object_name": "ea5d1ae9fcc2b9eaac23e816e68ac8c6166ce3",
+        "object_size": 871,
+        "parent_directory": "1b"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\1d": {
+        "object_type": "File",
+        "object_name": "a8e120f49e86f4b30ef25854a59e67af9b195a",
+        "object_size": 215,
+        "parent_directory": "1d"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\1e": {
+        "object_type": "File",
+        "object_name": "fd42b92d46fed546535497b46abc7f160e06aa",
+        "object_size": 208,
+        "parent_directory": "1e"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\24": {
+        "object_type": "File",
+        "object_name": "a01381a3baab3e38828be72fe7c919056e3816",
+        "object_size": 3229,
+        "parent_directory": "24"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\25": {
+        "object_type": "File",
+        "object_name": "751f48ce94fee0c9c6da84155a4160783160a6",
+        "object_size": 52,
+        "parent_directory": "25"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\29": {
+        "object_type": "File",
+        "object_name": "d8d85da74574639a40a3ca4806e736a97cb189",
+        "object_size": 822,
+        "parent_directory": "29"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\2b": {
+        "object_type": "File",
+        "object_name": "ea30e8732540df6cb47a98012b66ae9705a88e",
+        "object_size": 3876,
+        "parent_directory": "2b"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\2d": {
+        "object_type": "File",
+        "object_name": "7686809013f68aef6e61fcc1562a6077b98792",
+        "object_size": 107,
+        "parent_directory": "2d"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\2e": {
+        "object_type": "File",
+        "object_name": "f93d2bdebb25b0755a8614211d1f85f6b84848",
+        "object_size": 3944,
+        "parent_directory": "2e"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\30": {
+        "object_type": "File",
+        "object_name": "b8de37a2acdc267b8636a8f51876094880c66e",
+        "object_size": 156,
+        "parent_directory": "30"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\34": {
+        "object_type": "File",
+        "object_name": "c21276295cc13e403fc845441cec18969c64cf",
+        "object_size": 107,
+        "parent_directory": "34"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\35": {
+        "object_type": "File",
+        "object_name": "248355bf8bcc49c7104392317629f9bfabd95b",
+        "object_size": 1538,
+        "parent_directory": "35"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\37": {
+        "object_type": "File",
+        "object_name": "a68eadf441b06aa61d20d54498ac4bd93a64d7",
+        "object_size": 145,
+        "parent_directory": "37"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\3a": {
+        "object_type": "File",
+        "object_name": "3bd3c9500497c61de2c020d4c258bad66e5706",
+        "object_size": 97,
+        "parent_directory": "3a"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\46": {
+        "object_type": "File",
+        "object_name": "a2104ac5c22693bd43217b857d13c0b1c69cf1",
+        "object_size": 87,
+        "parent_directory": "46"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\47": {
+        "object_type": "File",
+        "object_name": "74f69b06648c7bfab2d5b173afeea6e9117654",
+        "object_size": 3125,
+        "parent_directory": "47"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\4a": {
+        "object_type": "File",
+        "object_name": "391994da9cde4eae0a9a200ba4b9343885311a",
+        "object_size": 800,
+        "parent_directory": "4a"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\4c": {
+        "object_type": "File",
+        "object_name": "31db7fe2c56168e3290224267c4b0451ee4e68",
+        "object_size": 195,
+        "parent_directory": "4c"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\50": {
+        "object_type": "File",
+        "object_name": "770277889501f227698e166b09b8de5d4cb556",
+        "object_size": 107,
+        "parent_directory": "50"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\52": {
+        "object_type": "File",
+        "object_name": "ab54e03f67bf1c0e89df8e5e5a75c8c5cb92a3",
+        "object_size": 153,
+        "parent_directory": "52"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\54": {
+        "object_type": "File",
+        "object_name": "04324659aa14489be821962adf7c62a3914566",
+        "object_size": 80,
+        "parent_directory": "54"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\56": {
+        "object_type": "File",
+        "object_name": "2bac52cbede79f285f16fb3f4021c6cbe54aa2",
+        "object_size": 3021,
+        "parent_directory": "56"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\5b": {
+        "object_type": "File",
+        "object_name": "9c2b0c4154ccc8c71673639986bea23a669a3a",
+        "object_size": 91,
+        "parent_directory": "5b"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\5e": {
+        "object_type": "File",
+        "object_name": "f11704ad7af2bb84621f1521865e0cb2896c44",
+        "object_size": 1334,
+        "parent_directory": "5e"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\64": {
+        "object_type": "File",
+        "object_name": "cdbd88d91a540703ea82eb57e652b2c06debeb",
+        "object_size": 537,
+        "parent_directory": "64"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\67": {
+        "object_type": "File",
+        "object_name": "79bf97bcd426d840c6693827685508cb61556c",
+        "object_size": 120,
+        "parent_directory": "67"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\6b": {
+        "object_type": "File",
+        "object_name": "3da79c67948150a4888d5e1ea5f4b60751569c",
+        "object_size": 638,
+        "parent_directory": "6b"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\6e": {
+        "object_type": "File",
+        "object_name": "28ac8eac8fba527b8fef1359cdd9a8364d25b7",
+        "object_size": 1643,
+        "parent_directory": "6e"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\70": {
+        "object_type": "File",
+        "object_name": "a5a42d682fab5f070f8c386402a86936ab39df",
+        "object_size": 545,
+        "parent_directory": "70"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\72": {
+        "object_type": "File",
+        "object_name": "550ca971565be4961846ac3af61ca86cc795a2",
+        "object_size": 654,
+        "parent_directory": "72"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\73": {
+        "object_type": "File",
+        "object_name": "efc7573625e932220faca9763dc8cd9c266829",
+        "object_size": 4001,
+        "parent_directory": "73"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\74": {
+        "object_type": "File",
+        "object_name": "9ca9affaaf3ff6eefa5cbb536855735b640be9",
+        "object_size": 1092,
+        "parent_directory": "74"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\76": {
+        "object_type": "File",
+        "object_name": "e79b81aaf1752c69517b3e81d871b2c9d3484b",
+        "object_size": 2355,
+        "parent_directory": "76"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\77": {
+        "object_type": "File",
+        "object_name": "3cdf8bef64f92bed88940f12a6c97268009a77",
+        "object_size": 322,
+        "parent_directory": "77"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\79": {
+        "object_type": "File",
+        "object_name": "6396fb77679c5ea544d467aabb7d218ce95917",
+        "object_size": 173,
+        "parent_directory": "79"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\7a": {
+        "object_type": "File",
+        "object_name": "138e1e8ca61cc51bd4fcf16046efd9ab03106e",
+        "object_size": 427,
+        "parent_directory": "7a"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\7c": {
+        "object_type": "File",
+        "object_name": "8c3b043b0b9476f401a38aca497118630e4247",
+        "object_size": 80,
+        "parent_directory": "7c"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\7e": {
+        "object_type": "File",
+        "object_name": "b932b6ac2033de0350534e02a09d89c3242b2a",
+        "object_size": 257,
+        "parent_directory": "7e"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\7f": {
+        "object_type": "File",
+        "object_name": "7e9b64d84947d26a41cd8dd18f74679cbe77b4",
+        "object_size": 2658,
+        "parent_directory": "7f"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\82": {
+        "object_type": "File",
+        "object_name": "5b2af9149ffec40578a272cf52669a9f127459",
+        "object_size": 372,
+        "parent_directory": "82"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\83": {
+        "object_type": "File",
+        "object_name": "a0437015b4a0195b9c425443f59639a27b8681",
+        "object_size": 52,
+        "parent_directory": "83"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\84": {
+        "object_type": "File",
+        "object_name": "fa241dfb408aaac1e35dc8e40a2bbd31ac66a3",
+        "object_size": 3443,
+        "parent_directory": "84"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\87": {
+        "object_type": "File",
+        "object_name": "8fea62ab68a0fe52ea0b40edbf4d258162a0ca",
+        "object_size": 436,
+        "parent_directory": "87"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\88": {
+        "object_type": "File",
+        "object_name": "ff2c09161b65fb0fe82cadbb65df10fc4dc471",
+        "object_size": 110,
+        "parent_directory": "88"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\89": {
+        "object_type": "File",
+        "object_name": "a3de9b78c043494da21797e68e6ecb7b26106a",
+        "object_size": 282,
+        "parent_directory": "89"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\8a": {
+        "object_type": "File",
+        "object_name": "eadef861c5b0675d0e5cba4813840f18b90e62",
+        "object_size": 193,
+        "parent_directory": "8a"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\8c": {
+        "object_type": "File",
+        "object_name": "3c8955c45d721b3f0a312b9d3e803bfa0e4d40",
+        "object_size": 3613,
+        "parent_directory": "8c"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\8e": {
+        "object_type": "File",
+        "object_name": "6ab48d4b8e4b330cc44b627ba74e704a9945c6",
+        "object_size": 161,
+        "parent_directory": "8e"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\8f": {
+        "object_type": "File",
+        "object_name": "f57b044df642712058e43081a4f255931a0f78",
+        "object_size": 2058,
+        "parent_directory": "8f"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\90": {
+        "object_type": "File",
+        "object_name": "1affb865e28a0813a4d0118cb0d7bad7402087",
+        "object_size": 711,
+        "parent_directory": "90"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\92": {
+        "object_type": "File",
+        "object_name": "d6128dd6af4abec20d185487b50581b86b1294",
+        "object_size": 445,
+        "parent_directory": "92"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\93": {
+        "object_type": "File",
+        "object_name": "335b57677a091c5f8d6719827c7c684c0507a7",
+        "object_size": 196,
+        "parent_directory": "93"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\97": {
+        "object_type": "File",
+        "object_name": "f3e043cb1114b5be0da364377ca45963592f8b",
+        "object_size": 103,
+        "parent_directory": "97"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\99": {
+        "object_type": "File",
+        "object_name": "f71a342228bd4b952ba7509714df8d5d0f5380",
+        "object_size": 157,
+        "parent_directory": "99"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\9d": {
+        "object_type": "File",
+        "object_name": "cc2cccc7632d5d26c53acf1f8d5db9aa73caa9",
+        "object_size": 831,
+        "parent_directory": "9d"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\9f": {
+        "object_type": "File",
+        "object_name": "9f95bef20c2f8f21bb590c19bf7b18d66feb3d",
+        "object_size": 776,
+        "parent_directory": "9f"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\a1": {
+        "object_type": "File",
+        "object_name": "934b9868e8959e624d2237db68f7cfc558c29b",
+        "object_size": 160,
+        "parent_directory": "a1"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\a2": {
+        "object_type": "File",
+        "object_name": "1ef6a9b3b51676efeea45fd8cee487568aa80f",
+        "object_size": 1148,
+        "parent_directory": "a2"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\a5": {
+        "object_type": "File",
+        "object_name": "e962ef98eb97c312c172727462220f85bdcfc6",
+        "object_size": 602,
+        "parent_directory": "a5"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\a7": {
+        "object_type": "File",
+        "object_name": "8e6c299af01dbac8e4ba2a9aa609b00f1a0e48",
+        "object_size": 80,
+        "parent_directory": "a7"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\a8": {
+        "object_type": "File",
+        "object_name": "f51328412f122c9677e7eabc9244997a4fd5ea",
+        "object_size": 351,
+        "parent_directory": "a8"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\af": {
+        "object_type": "File",
+        "object_name": "26f3a5ecb491edba72a075c455849b75db9485",
+        "object_size": 1001,
+        "parent_directory": "af"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\b0": {
+        "object_type": "File",
+        "object_name": "8ee676baaf72d493d9d638ab394766bcf5ea0b",
+        "object_size": 2027,
+        "parent_directory": "b0"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\b4": {
+        "object_type": "File",
+        "object_name": "e947059a8ba9db8e135d9e68662dd88de29b3e",
+        "object_size": 157,
+        "parent_directory": "b4"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\b5": {
+        "object_type": "File",
+        "object_name": "e2ddb32c8fd3bfb110079fe092568e511a7e56",
+        "object_size": 639,
+        "parent_directory": "b5"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\b7": {
+        "object_type": "File",
+        "object_name": "2d5fcf370affdbadb00d8e2df1f884b0e6a7fc",
+        "object_size": 1661,
+        "parent_directory": "b7"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\b8": {
+        "object_type": "File",
+        "object_name": "5bb1d15920cb7c74b1939020a6173b733f7840",
+        "object_size": 52,
+        "parent_directory": "b8"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\ba": {
+        "object_type": "File",
+        "object_name": "c2ccc929b67fb095e9e92b1bb3dca993a193c6",
+        "object_size": 544,
+        "parent_directory": "ba"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\c0": {
+        "object_type": "File",
+        "object_name": "e853646ecb839b696a90cf4d06e97117048b00",
+        "object_size": 1305,
+        "parent_directory": "c0"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\c1": {
+        "object_type": "File",
+        "object_name": "63eb6c822fe00121106a6e3677e8dcf0a973f7",
+        "object_size": 108,
+        "parent_directory": "c1"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\c3": {
+        "object_type": "File",
+        "object_name": "ae3e9b952b7d8c2da7aa762cb1a72de1d9ae1f",
+        "object_size": 1700,
+        "parent_directory": "c3"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\c5": {
+        "object_type": "File",
+        "object_name": "4895c833392b9797e29ef4a5cd0b6607d8ad9a",
+        "object_size": 1109,
+        "parent_directory": "c5"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\c6": {
+        "object_type": "File",
+        "object_name": "4da5f56ff4be56b5be8891fd450fa2d1cf5630",
+        "object_size": 103,
+        "parent_directory": "c6"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\c7": {
+        "object_type": "File",
+        "object_name": "b9b1cb505b6a3354aab3167094ec009c26959a",
+        "object_size": 77,
+        "parent_directory": "c7"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\c8": {
+        "object_type": "File",
+        "object_name": "cf8b44ce4eab5a214abeb22186672a81f6a3d8",
+        "object_size": 107,
+        "parent_directory": "c8"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\ca": {
+        "object_type": "File",
+        "object_name": "7cf0fcd1b423d184c68ac5192db17fa58e9faa",
+        "object_size": 127,
+        "parent_directory": "ca"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\cc": {
+        "object_type": "File",
+        "object_name": "a21f9bca9c226344304d03791a2d85b7d134cb",
+        "object_size": 1074,
+        "parent_directory": "cc"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\cd": {
+        "object_type": "File",
+        "object_name": "62a4aebdb07a17e11a403cfe33f16ea79c3d53",
+        "object_size": 827,
+        "parent_directory": "cd"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\cf": {
+        "object_type": "File",
+        "object_name": "496142fd44220c0abf228fcd4e9572f42f42ea",
+        "object_size": 1929,
+        "parent_directory": "cf"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\d0": {
+        "object_type": "File",
+        "object_name": "d95d8c43592bcc63b7d74f6cded4635169a3f8",
+        "object_size": 1267,
+        "parent_directory": "d0"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\d1": {
+        "object_type": "File",
+        "object_name": "adb2ba009d2702436d64cb175f11b63e8da338",
+        "object_size": 728,
+        "parent_directory": "d1"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\d4": {
+        "object_type": "File",
+        "object_name": "b3ba8f69664076980fd0c2e79fe6c3c9797be8",
+        "object_size": 653,
+        "parent_directory": "d4"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\d8": {
+        "object_type": "File",
+        "object_name": "426aefe46da7bbc1e28c7f6035c6798bd66039",
+        "object_size": 152,
+        "parent_directory": "d8"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\da": {
+        "object_type": "File",
+        "object_name": "c8c7b67d0a4b17a842a00618fc64fc44d10f03",
+        "object_size": 52,
+        "parent_directory": "da"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\dc": {
+        "object_type": "File",
+        "object_name": "c1b630ec2ba0a001759ad35dc2dbf395e959f0",
+        "object_size": 727,
+        "parent_directory": "dc"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\dd": {
+        "object_type": "File",
+        "object_name": "402015501fdc2407147dc4d9a692caf5d21ad8",
+        "object_size": 2576,
+        "parent_directory": "dd"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\de": {
+        "object_type": "File",
+        "object_name": "b40deadb0c37cbb677e414dd7ac6bfae038823",
+        "object_size": 128,
+        "parent_directory": "de"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\df": {
+        "object_type": "File",
+        "object_name": "e97cf49b016d4618e45e4af06d4705c6a0cd25",
+        "object_size": 77,
+        "parent_directory": "df"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\e0": {
+        "object_type": "File",
+        "object_name": "d1ee1025fb5d7e5be0c373dfe075e4be4170f9",
+        "object_size": 281,
+        "parent_directory": "e0"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\e3": {
+        "object_type": "File",
+        "object_name": "538c3c9f957e734dc3889695a550affd615408",
+        "object_size": 103,
+        "parent_directory": "e3"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\e9": {
+        "object_type": "File",
+        "object_name": "950fbd87399371aa797f8c589f9ec35994d8b6",
+        "object_size": 1290,
+        "parent_directory": "e9"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\eb": {
+        "object_type": "File",
+        "object_name": "bbe2c68247bf1282589a9dac975740afc9ccf8",
+        "object_size": 1312,
+        "parent_directory": "eb"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\ee": {
+        "object_type": "File",
+        "object_name": "a7b75a0b36a327a65d787ac4595b996ac5f91a",
+        "object_size": 2493,
+        "parent_directory": "ee"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\f4": {
+        "object_type": "File",
+        "object_name": "f6f51bd78c25e71a2a5f19d52dd013b3b58a91",
+        "object_size": 1925,
+        "parent_directory": "f4"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\fc": {
+        "object_type": "File",
+        "object_name": "adbec01c97a9fb310b4f157ab539c3df07e495",
+        "object_size": 3133,
+        "parent_directory": "fc"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\fe": {
+        "object_type": "File",
+        "object_name": "c7d18495643fb40a85b0281d3298518fa30455",
+        "object_size": 210,
+        "parent_directory": "fe"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\objects\\ff": {
+        "object_type": "File",
+        "object_name": "1e7af2ab4fe49590f9c2a7638b924831d7f428",
+        "object_size": 547,
+        "parent_directory": "ff"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\refs": {
+        "object_type": "Directory",
+        "object_name": "tags",
+        "object_size": 0,
+        "parent_directory": "refs"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\refs\\heads": {
+        "object_type": "File",
+        "object_name": "main",
+        "object_size": 41,
+        "parent_directory": "heads"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\refs\\remotes": {
+        "object_type": "Directory",
+        "object_name": "origin",
+        "object_size": 41,
+        "parent_directory": "remotes"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\.git\\refs\\remotes\\origin": {
+        "object_type": "File",
+        "object_name": "main",
+        "object_size": 41,
+        "parent_directory": "origin"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_1": {
+        "object_type": "File",
+        "object_name": "task_2.py",
+        "object_size": 1954,
+        "parent_directory": "homework_1"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_2": {
+        "object_type": "File",
+        "object_name": "task_3.py",
+        "object_size": 2252,
+        "parent_directory": "homework_2"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_3": {
+        "object_type": "File",
+        "object_name": "Task_3.py",
+        "object_size": 2244,
+        "parent_directory": "homework_3"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_4": {
+        "object_type": "File",
+        "object_name": "Task_3.py",
+        "object_size": 3451,
+        "parent_directory": "homework_4"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_5": {
+        "object_type": "File",
+        "object_name": "Task_3.py",
+        "object_size": 280,
+        "parent_directory": "homework_5"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_6": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 1786,
+        "parent_directory": "homework_6"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_6\\add_task": {
+        "object_type": "File",
+        "object_name": "module_add_task.py",
+        "object_size": 1005,
+        "parent_directory": "add_task"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_6\\main_task": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 3035,
+        "parent_directory": "main_task"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_6\\main_task\\__pycache__": {
+        "object_type": "File",
+        "object_name": "portfolio.cpython-311.pyc",
+        "object_size": 3035,
+        "parent_directory": "__pycache__"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_6\\Task_1": {
+        "object_type": "File",
+        "object_name": "Task_1.py",
+        "object_size": 340,
+        "parent_directory": "Task_1"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_6\\__pycache__": {
+        "object_type": "File",
+        "object_name": "module_task_1.cpython-311.pyc",
+        "object_size": 1786,
+        "parent_directory": "__pycache__"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_7": {
+        "object_type": "File",
+        "object_name": "main.py",
+        "object_size": 629,
+        "parent_directory": "homework_7"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_7\\files_manager": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 11592,
+        "parent_directory": "files_manager"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_7\\files_manager\\__pycache__": {
+        "object_type": "File",
+        "object_name": "group_rename.cpython-311.pyc",
+        "object_size": 2296,
+        "parent_directory": "__pycache__"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_8": {
+        "object_type": "File",
+        "object_name": "task_homework.py",
+        "object_size": 3589,
+        "parent_directory": "homework_8"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_8\\file_manager": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 15876,
+        "parent_directory": "file_manager"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\homework_8\\file_manager\\__pycache__": {
+        "object_type": "File",
+        "object_name": "txt_to_json.cpython-311.pyc",
+        "object_size": 1338,
+        "parent_directory": "__pycache__"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\new": {
+        "object_type": "File",
+        "object_name": "zetfn.txt",
+        "object_size": 271,
+        "parent_directory": "new"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\package_sem_6": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 5911,
+        "parent_directory": "package_sem_6"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\package_sem_6\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-311.pyc",
+        "object_size": 854,
+        "parent_directory": "__pycache__"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\rezult": {
+        "object_type": "Directory",
+        "object_name": "Videos",
+        "object_size": 45954,
+        "parent_directory": "rezult"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\rezult\\Archive": {
+        "object_type": "File",
+        "object_name": "YOF.rar",
+        "object_size": 1908,
+        "parent_directory": "Archive"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\rezult\\Photos": {
+        "object_type": "File",
+        "object_name": "xXdxH.jpg",
+        "object_size": 2006,
+        "parent_directory": "Photos"
+    },
+    "C:\\Users\\homei\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\DeepPythonLection\\rezult\\Videos": {
+        "object_type": "File",
+        "object_name": "ZoFcS.avi",
+        "object_size": 3208,
+        "parent_directory": "Videos"
+    }
+}
