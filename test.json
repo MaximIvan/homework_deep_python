@@ -1,0 +1,20 @@
+[
+    {
+        "id": "000021",
+        "level": 1,
+        "user_name": "Fedor"
+    },
+
+    {
+        "id": "000031",
+        "level": 1,
+        "user_name": "Roman"
+
+    },
+
+    {
+        "id": "000001",
+        "level": 3,
+        "user_name": "Timur"
+    }
+]
